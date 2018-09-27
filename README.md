@@ -11,6 +11,10 @@ Stuff for Robot Chores
 
 [![CAT reply to Robot Chores 4](http://img.youtube.com/vi/uD2Cihb91kQ/0.jpg)](https://youtu.be/uD2Cihb91kQ)
 
+# So Tinkercad share DOES WORK
+[Link to Tinkercad Share - RoboChores-DemoServoTest](ttps://www.tinkercad.com/embed/cHKb8Xp7plW?editbtn=1)
+
+  
 # Resources
 + [Tinkercad](https://www.tinkercad.com/)
 + [Github ChrisTrees](https://github.com/christrees/robotchores/)
