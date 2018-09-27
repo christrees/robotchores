@@ -6,6 +6,11 @@ Stuff for Robot Chores
 
 [![Robot Chores 4](http://img.youtube.com/vi/1zcfeFA7NcA/0.jpg)](https://www.youtube.com/embed/1zcfeFA7NcA)
 
+# Video of this
+[CAT reply tp Robot Chores 4: Let's Code a 2 Channel Puppet Mover in Arduino - Part 2](https://youtu.be/uD2Cihb91kQ)
+
+[![CAT reply to Robot Chores 4](http://img.youtube.com/vi/uD2Cihb91kQ/0.jpg)](https://youtu.be/uD2Cihb91kQ)
+
 # Resources
 + [Tinkercad](https://www.tinkercad.com/)
 + [Github ChrisTrees](https://github.com/christrees/robotchores/)
